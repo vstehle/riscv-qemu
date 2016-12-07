@@ -79,7 +79,7 @@
 #define CSR_MCYCLE 0xf00
 #define CSR_MTIME 0xf01
 #define CSR_MINSTRET 0xf02
-#define CSR_MISA 0xf10
+#define CSR_MISA 0x301
 #define CSR_MVENDORID 0xf11
 #define CSR_MARCHID 0xf12
 #define CSR_MIMPID 0xf13
